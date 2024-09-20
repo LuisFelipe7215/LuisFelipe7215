@@ -2,9 +2,6 @@
 <h3 align="center">A backend Java developer from Brazil.</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
-
-- 📫 How to reach me **luis104.lf@gmail.com**
-
 <p align="left">
 </p>
 
